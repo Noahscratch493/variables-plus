@@ -20,6 +20,10 @@
 
 </p>
 
+## How to use
+Go to a Scratch Mod such as **TurboWarp** (CattyMod won't work for some odd reason) and import the extension by copying the contents of the link and importing it
+`https://raw.githubusercontent.com/Noahscratch493/variables-plus/refs/heads/main/extension.js`
+
 
 ## Features
 
@@ -31,3 +35,6 @@ Check if Normal or Virtual Variables and lists exist and more!
 
 ### Saves (Must be unsandboxed to use this feature)
 This lets you create a save using blocks which lets you carry data even after reload!
+
+## All Blocks
+  <img alt="All Variables+ Blocks" src="https://raw.githubusercontent.com/Noahscratch493/variables-plus/refs/heads/main/image_2026-04-08_170905359.png">
