@@ -21,7 +21,7 @@
 </p>
 
 ## How to use
-Go to a Scratch Mod such as **TurboWarp** (CattyMod won't work for some odd reason) and import the extension by copying the contents of the link and importing it
+Go to a Scratch Mod such as **TurboWarp** (CattyMod won't work for some odd reason) and import the extension by copying the contents of the link and importing it:
 `https://raw.githubusercontent.com/Noahscratch493/variables-plus/refs/heads/main/extension.js`
 
 
